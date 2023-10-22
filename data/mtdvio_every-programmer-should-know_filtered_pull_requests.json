@@ -1,0 +1,1478 @@
+[
+    {
+        "state": "open",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 212,
+        "created_at": "2023-09-16T16:21:27Z",
+        "closed_at": null,
+        "merged_at": null
+    },
+    {
+        "state": "open",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 211,
+        "created_at": "2023-07-15T01:02:59Z",
+        "closed_at": null,
+        "merged_at": null
+    },
+    {
+        "state": "open",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 210,
+        "created_at": "2023-04-13T23:43:39Z",
+        "closed_at": null,
+        "merged_at": null
+    },
+    {
+        "state": "open",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 209,
+        "created_at": "2023-03-31T12:51:53Z",
+        "closed_at": null,
+        "merged_at": null
+    },
+    {
+        "state": "open",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 208,
+        "created_at": "2023-03-13T13:04:39Z",
+        "closed_at": null,
+        "merged_at": null
+    },
+    {
+        "state": "open",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 207,
+        "created_at": "2023-02-03T01:30:05Z",
+        "closed_at": null,
+        "merged_at": null
+    },
+    {
+        "state": "open",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 205,
+        "created_at": "2023-01-19T06:01:56Z",
+        "closed_at": null,
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 203,
+        "created_at": "2022-11-14T18:41:47Z",
+        "closed_at": "2022-11-23T10:58:29Z",
+        "merged_at": "2022-11-23T10:58:29Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 202,
+        "created_at": "2022-11-07T13:56:54Z",
+        "closed_at": "2022-11-23T10:58:01Z",
+        "merged_at": "2022-11-23T10:58:01Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 200,
+        "created_at": "2022-10-11T16:43:08Z",
+        "closed_at": "2022-11-23T10:59:11Z",
+        "merged_at": "2022-11-23T10:59:11Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 199,
+        "created_at": "2022-09-11T14:07:12Z",
+        "closed_at": "2022-11-23T10:59:42Z",
+        "merged_at": "2022-11-23T10:59:42Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 198,
+        "created_at": "2022-08-13T16:01:07Z",
+        "closed_at": "2022-11-23T11:00:16Z",
+        "merged_at": "2022-11-23T11:00:16Z"
+    },
+    {
+        "state": "open",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 197,
+        "created_at": "2022-08-08T07:51:33Z",
+        "closed_at": null,
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 196,
+        "created_at": "2022-07-25T19:27:53Z",
+        "closed_at": "2022-11-23T11:01:01Z",
+        "merged_at": "2022-11-23T11:01:01Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 193,
+        "created_at": "2022-07-08T13:19:00Z",
+        "closed_at": "2022-11-23T11:01:38Z",
+        "merged_at": "2022-11-23T11:01:38Z"
+    },
+    {
+        "state": "open",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 191,
+        "created_at": "2022-07-07T20:00:36Z",
+        "closed_at": null,
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 190,
+        "created_at": "2022-07-06T13:25:51Z",
+        "closed_at": "2022-11-23T11:02:17Z",
+        "merged_at": "2022-11-23T11:02:17Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 189,
+        "created_at": "2022-07-06T13:07:41Z",
+        "closed_at": "2022-10-11T12:20:02Z",
+        "merged_at": null
+    },
+    {
+        "state": "open",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 188,
+        "created_at": "2022-07-06T09:06:44Z",
+        "closed_at": null,
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 184,
+        "created_at": "2022-07-02T02:50:19Z",
+        "closed_at": "2022-07-02T10:54:54Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 183,
+        "created_at": "2022-05-27T21:07:22Z",
+        "closed_at": "2022-05-27T21:08:22Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 180,
+        "created_at": "2022-05-02T11:53:12Z",
+        "closed_at": "2023-03-04T14:24:23Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 179,
+        "created_at": "2022-04-18T16:30:51Z",
+        "closed_at": "2022-11-23T11:06:05Z",
+        "merged_at": "2022-11-23T11:06:04Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 177,
+        "created_at": "2022-01-02T15:42:15Z",
+        "closed_at": "2022-11-23T11:05:19Z",
+        "merged_at": "2022-11-23T11:05:19Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 174,
+        "created_at": "2021-12-26T10:17:53Z",
+        "closed_at": "2022-11-23T11:03:08Z",
+        "merged_at": "2022-11-23T11:03:08Z"
+    },
+    {
+        "state": "open",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 173,
+        "created_at": "2021-12-24T04:40:09Z",
+        "closed_at": null,
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 172,
+        "created_at": "2021-12-22T21:08:36Z",
+        "closed_at": "2021-12-22T21:10:16Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 171,
+        "created_at": "2021-12-04T07:21:01Z",
+        "closed_at": "2023-01-20T05:37:55Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 168,
+        "created_at": "2021-09-09T13:59:43Z",
+        "closed_at": "2022-11-23T11:04:48Z",
+        "merged_at": "2022-11-23T11:04:48Z"
+    },
+    {
+        "state": "open",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 167,
+        "created_at": "2021-09-08T11:27:34Z",
+        "closed_at": null,
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 165,
+        "created_at": "2021-03-10T08:38:04Z",
+        "closed_at": "2021-04-19T13:48:45Z",
+        "merged_at": "2021-04-19T13:48:45Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 164,
+        "created_at": "2020-11-08T16:43:38Z",
+        "closed_at": "2021-04-19T13:50:27Z",
+        "merged_at": "2021-04-19T13:50:27Z"
+    },
+    {
+        "state": "open",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 163,
+        "created_at": "2020-10-14T07:37:05Z",
+        "closed_at": null,
+        "merged_at": null
+    },
+    {
+        "state": "open",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 162,
+        "created_at": "2020-10-01T10:06:53Z",
+        "closed_at": null,
+        "merged_at": null
+    },
+    {
+        "state": "open",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 161,
+        "created_at": "2020-10-01T06:25:54Z",
+        "closed_at": null,
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 160,
+        "created_at": "2020-09-25T17:12:50Z",
+        "closed_at": "2022-11-22T14:10:23Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 159,
+        "created_at": "2020-09-14T22:18:37Z",
+        "closed_at": "2021-04-19T13:49:37Z",
+        "merged_at": "2021-04-19T13:49:37Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 157,
+        "created_at": "2020-07-24T23:01:00Z",
+        "closed_at": "2020-07-24T23:04:03Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 156,
+        "created_at": "2020-07-20T16:52:44Z",
+        "closed_at": "2020-07-20T16:52:52Z",
+        "merged_at": "2020-07-20T16:52:52Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 155,
+        "created_at": "2020-07-05T15:54:42Z",
+        "closed_at": "2020-07-05T15:55:23Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 154,
+        "created_at": "2020-07-01T06:58:32Z",
+        "closed_at": "2020-07-01T12:59:26Z",
+        "merged_at": "2020-07-01T12:59:26Z"
+    },
+    {
+        "state": "open",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 153,
+        "created_at": "2020-05-12T14:27:34Z",
+        "closed_at": null,
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 152,
+        "created_at": "2020-03-10T14:08:57Z",
+        "closed_at": "2020-03-10T15:07:37Z",
+        "merged_at": "2020-03-10T15:07:37Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 150,
+        "created_at": "2019-11-07T03:05:39Z",
+        "closed_at": "2019-11-07T03:06:13Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 148,
+        "created_at": "2019-10-14T11:29:27Z",
+        "closed_at": "2020-03-14T10:16:46Z",
+        "merged_at": null
+    },
+    {
+        "state": "open",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 147,
+        "created_at": "2019-10-09T16:55:01Z",
+        "closed_at": null,
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 146,
+        "created_at": "2019-10-05T15:09:38Z",
+        "closed_at": "2022-08-27T20:00:16Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 145,
+        "created_at": "2019-10-01T08:59:54Z",
+        "closed_at": "2019-11-15T09:01:28Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 144,
+        "created_at": "2019-05-13T09:46:31Z",
+        "closed_at": "2020-03-11T11:21:53Z",
+        "merged_at": "2020-03-11T11:21:52Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 143,
+        "created_at": "2019-04-22T13:58:16Z",
+        "closed_at": "2019-04-24T14:44:15Z",
+        "merged_at": "2019-04-24T14:44:15Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 140,
+        "created_at": "2019-02-18T05:58:48Z",
+        "closed_at": "2019-02-25T11:34:57Z",
+        "merged_at": "2019-02-25T11:34:57Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 139,
+        "created_at": "2019-01-30T23:12:03Z",
+        "closed_at": "2019-01-31T09:13:01Z",
+        "merged_at": "2019-01-31T09:13:01Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 137,
+        "created_at": "2018-11-25T12:04:10Z",
+        "closed_at": "2018-12-05T21:07:38Z",
+        "merged_at": "2018-12-05T21:07:38Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 136,
+        "created_at": "2018-11-20T08:36:18Z",
+        "closed_at": "2020-07-01T12:57:43Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 135,
+        "created_at": "2018-11-19T11:17:46Z",
+        "closed_at": "2019-01-31T09:14:06Z",
+        "merged_at": "2019-01-31T09:14:06Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 134,
+        "created_at": "2018-11-18T15:59:21Z",
+        "closed_at": "2018-12-05T21:19:43Z",
+        "merged_at": "2018-12-05T21:19:43Z"
+    },
+    {
+        "state": "open",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 133,
+        "created_at": "2018-10-31T03:30:48Z",
+        "closed_at": null,
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 132,
+        "created_at": "2018-10-26T01:04:47Z",
+        "closed_at": "2018-12-05T21:09:18Z",
+        "merged_at": "2018-12-05T21:09:18Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 131,
+        "created_at": "2018-10-10T21:05:40Z",
+        "closed_at": "2023-10-03T19:37:37Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 130,
+        "created_at": "2018-10-06T06:22:39Z",
+        "closed_at": "2018-12-05T21:08:01Z",
+        "merged_at": "2018-12-05T21:08:01Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 128,
+        "created_at": "2018-08-29T15:52:16Z",
+        "closed_at": "2018-09-19T15:59:13Z",
+        "merged_at": "2018-09-19T15:59:13Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 127,
+        "created_at": "2018-07-02T08:18:26Z",
+        "closed_at": "2018-09-19T15:58:28Z",
+        "merged_at": "2018-09-19T15:58:28Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 125,
+        "created_at": "2018-05-30T13:42:16Z",
+        "closed_at": "2018-09-19T15:55:33Z",
+        "merged_at": "2018-09-19T15:55:33Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 124,
+        "created_at": "2018-05-17T11:04:50Z",
+        "closed_at": "2018-09-19T15:42:21Z",
+        "merged_at": "2018-09-19T15:42:21Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 122,
+        "created_at": "2018-03-26T19:23:43Z",
+        "closed_at": "2018-04-10T12:18:42Z",
+        "merged_at": "2018-04-10T12:18:41Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 121,
+        "created_at": "2018-03-26T19:08:09Z",
+        "closed_at": "2018-04-10T12:19:04Z",
+        "merged_at": "2018-04-10T12:19:03Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 120,
+        "created_at": "2018-02-16T10:23:53Z",
+        "closed_at": "2018-02-16T19:33:09Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 119,
+        "created_at": "2018-01-16T22:26:23Z",
+        "closed_at": "2018-01-17T15:35:34Z",
+        "merged_at": "2018-01-17T15:35:34Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 118,
+        "created_at": "2018-01-13T23:36:14Z",
+        "closed_at": "2018-01-17T15:42:44Z",
+        "merged_at": "2018-01-17T15:42:44Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 117,
+        "created_at": "2017-12-20T10:24:13Z",
+        "closed_at": "2020-03-15T05:19:38Z",
+        "merged_at": "2020-03-15T05:19:38Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 116,
+        "created_at": "2017-12-10T06:17:00Z",
+        "closed_at": "2020-07-01T12:58:00Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 115,
+        "created_at": "2017-12-06T15:29:34Z",
+        "closed_at": "2018-01-17T15:34:40Z",
+        "merged_at": "2018-01-17T15:34:40Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 114,
+        "created_at": "2017-12-06T15:25:06Z",
+        "closed_at": "2018-01-17T15:37:29Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 113,
+        "created_at": "2017-11-25T23:30:59Z",
+        "closed_at": "2018-04-10T12:20:31Z",
+        "merged_at": "2018-04-10T12:20:31Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 112,
+        "created_at": "2017-11-14T10:21:14Z",
+        "closed_at": "2018-01-17T15:43:41Z",
+        "merged_at": "2018-01-17T15:43:41Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 110,
+        "created_at": "2017-11-11T19:26:30Z",
+        "closed_at": "2018-01-17T15:41:08Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 108,
+        "created_at": "2017-11-01T20:17:58Z",
+        "closed_at": "2018-01-17T15:43:09Z",
+        "merged_at": "2018-01-17T15:43:09Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 107,
+        "created_at": "2017-11-01T05:18:09Z",
+        "closed_at": "2020-07-01T12:58:16Z",
+        "merged_at": null
+    },
+    {
+        "state": "open",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 106,
+        "created_at": "2017-10-31T12:35:32Z",
+        "closed_at": null,
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 105,
+        "created_at": "2017-10-31T05:42:07Z",
+        "closed_at": "2018-01-17T15:44:48Z",
+        "merged_at": "2018-01-17T15:44:48Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 104,
+        "created_at": "2017-10-30T04:18:00Z",
+        "closed_at": "2018-01-17T15:47:08Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 103,
+        "created_at": "2017-10-27T07:13:26Z",
+        "closed_at": "2018-01-17T15:52:38Z",
+        "merged_at": "2018-01-17T15:52:38Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 102,
+        "created_at": "2017-10-25T20:07:06Z",
+        "closed_at": "2018-01-17T15:49:06Z",
+        "merged_at": "2018-01-17T15:49:06Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 101,
+        "created_at": "2017-10-24T05:51:23Z",
+        "closed_at": "2017-10-24T05:52:05Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 100,
+        "created_at": "2017-10-24T01:40:28Z",
+        "closed_at": "2017-10-25T17:51:01Z",
+        "merged_at": "2017-10-25T17:51:01Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 99,
+        "created_at": "2017-10-24T01:07:16Z",
+        "closed_at": "2020-07-01T12:58:34Z",
+        "merged_at": null
+    },
+    {
+        "state": "open",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 98,
+        "created_at": "2017-10-23T18:04:33Z",
+        "closed_at": null,
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 97,
+        "created_at": "2017-10-21T05:05:10Z",
+        "closed_at": "2017-10-25T20:03:04Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 96,
+        "created_at": "2017-10-20T08:44:48Z",
+        "closed_at": "2018-01-17T15:54:29Z",
+        "merged_at": "2018-01-17T15:54:29Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 95,
+        "created_at": "2017-10-19T15:30:08Z",
+        "closed_at": "2017-10-25T18:29:45Z",
+        "merged_at": "2017-10-25T18:29:45Z"
+    },
+    {
+        "state": "open",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 94,
+        "created_at": "2017-10-19T01:38:02Z",
+        "closed_at": null,
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 92,
+        "created_at": "2017-10-18T10:24:58Z",
+        "closed_at": "2020-03-11T10:52:11Z",
+        "merged_at": "2020-03-11T10:52:11Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 91,
+        "created_at": "2017-10-17T22:48:23Z",
+        "closed_at": "2017-10-25T18:20:15Z",
+        "merged_at": "2017-10-25T18:20:15Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 89,
+        "created_at": "2017-10-16T12:09:24Z",
+        "closed_at": "2017-10-16T12:09:47Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 88,
+        "created_at": "2017-10-16T07:56:38Z",
+        "closed_at": "2017-10-25T18:18:49Z",
+        "merged_at": "2017-10-25T18:18:49Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 87,
+        "created_at": "2017-10-15T04:24:03Z",
+        "closed_at": "2017-10-25T18:18:16Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 86,
+        "created_at": "2017-10-14T05:16:38Z",
+        "closed_at": "2017-10-25T18:06:38Z",
+        "merged_at": "2017-10-25T18:06:38Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 85,
+        "created_at": "2017-10-14T05:15:40Z",
+        "closed_at": "2017-10-25T18:05:32Z",
+        "merged_at": "2017-10-25T18:05:32Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 84,
+        "created_at": "2017-10-14T05:12:50Z",
+        "closed_at": "2020-03-11T10:43:31Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 83,
+        "created_at": "2017-10-12T07:12:22Z",
+        "closed_at": "2017-10-13T17:39:56Z",
+        "merged_at": "2017-10-13T17:39:56Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 82,
+        "created_at": "2017-10-11T22:10:40Z",
+        "closed_at": "2017-10-25T18:02:46Z",
+        "merged_at": "2017-10-25T18:02:46Z"
+    },
+    {
+        "state": "open",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 81,
+        "created_at": "2017-10-08T21:55:56Z",
+        "closed_at": null,
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 80,
+        "created_at": "2017-10-07T19:30:04Z",
+        "closed_at": "2017-10-08T15:02:33Z",
+        "merged_at": "2017-10-08T15:02:33Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 79,
+        "created_at": "2017-10-07T11:36:48Z",
+        "closed_at": "2017-10-13T17:39:02Z",
+        "merged_at": "2017-10-13T17:39:02Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 78,
+        "created_at": "2017-10-07T10:35:04Z",
+        "closed_at": "2017-10-13T17:40:36Z",
+        "merged_at": "2017-10-13T17:40:36Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 77,
+        "created_at": "2017-10-06T11:47:01Z",
+        "closed_at": "2017-11-01T21:59:45Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 76,
+        "created_at": "2017-10-06T11:26:09Z",
+        "closed_at": "2017-10-06T11:29:26Z",
+        "merged_at": "2017-10-06T11:29:26Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 75,
+        "created_at": "2017-10-06T09:15:33Z",
+        "closed_at": "2017-10-25T17:57:51Z",
+        "merged_at": "2017-10-25T17:57:51Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 74,
+        "created_at": "2017-10-06T06:59:21Z",
+        "closed_at": "2020-03-10T21:14:02Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 73,
+        "created_at": "2017-10-05T04:17:02Z",
+        "closed_at": "2017-10-05T10:14:55Z",
+        "merged_at": "2017-10-05T10:14:55Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 72,
+        "created_at": "2017-10-01T16:56:31Z",
+        "closed_at": "2017-10-25T17:47:00Z",
+        "merged_at": "2017-10-25T17:47:00Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 71,
+        "created_at": "2017-09-30T23:31:18Z",
+        "closed_at": "2017-10-03T13:58:34Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 70,
+        "created_at": "2017-09-28T07:05:06Z",
+        "closed_at": "2017-10-03T14:04:09Z",
+        "merged_at": "2017-10-03T14:04:09Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 69,
+        "created_at": "2017-09-26T04:21:02Z",
+        "closed_at": "2017-10-03T14:05:06Z",
+        "merged_at": "2017-10-03T14:05:06Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 68,
+        "created_at": "2017-09-25T12:49:51Z",
+        "closed_at": "2017-10-03T14:08:19Z",
+        "merged_at": "2017-10-03T14:08:19Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 67,
+        "created_at": "2017-09-25T06:51:05Z",
+        "closed_at": "2017-09-28T11:47:04Z",
+        "merged_at": "2017-09-28T11:47:04Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 66,
+        "created_at": "2017-09-24T12:46:58Z",
+        "closed_at": "2017-10-03T14:08:54Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 65,
+        "created_at": "2017-09-22T18:04:32Z",
+        "closed_at": "2017-09-22T18:08:14Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 64,
+        "created_at": "2017-09-22T14:22:18Z",
+        "closed_at": "2017-09-23T10:38:40Z",
+        "merged_at": "2017-09-23T10:38:40Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 63,
+        "created_at": "2017-09-22T11:56:56Z",
+        "closed_at": "2017-09-23T10:35:13Z",
+        "merged_at": "2017-09-23T10:35:13Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 62,
+        "created_at": "2017-09-22T11:51:11Z",
+        "closed_at": "2017-09-22T11:54:24Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 61,
+        "created_at": "2017-09-22T11:45:00Z",
+        "closed_at": "2017-09-23T10:36:22Z",
+        "merged_at": "2017-09-23T10:36:22Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 58,
+        "created_at": "2017-09-19T20:07:12Z",
+        "closed_at": "2017-09-20T11:40:08Z",
+        "merged_at": "2017-09-20T11:40:08Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 55,
+        "created_at": "2017-09-19T06:55:22Z",
+        "closed_at": "2017-09-19T12:34:34Z",
+        "merged_at": "2017-09-19T12:34:34Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 54,
+        "created_at": "2017-09-18T16:50:39Z",
+        "closed_at": "2017-09-21T12:28:21Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 53,
+        "created_at": "2017-09-18T15:50:04Z",
+        "closed_at": "2017-09-20T11:38:54Z",
+        "merged_at": "2017-09-20T11:38:54Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 52,
+        "created_at": "2017-09-18T14:04:45Z",
+        "closed_at": "2017-09-19T12:35:14Z",
+        "merged_at": "2017-09-19T12:35:14Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 51,
+        "created_at": "2017-09-18T07:26:45Z",
+        "closed_at": "2017-09-18T12:36:35Z",
+        "merged_at": "2017-09-18T12:36:35Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 50,
+        "created_at": "2017-09-18T01:51:41Z",
+        "closed_at": "2017-09-19T12:36:58Z",
+        "merged_at": "2017-09-19T12:36:58Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 49,
+        "created_at": "2017-09-17T19:19:45Z",
+        "closed_at": "2017-09-22T10:58:32Z",
+        "merged_at": "2017-09-22T10:58:32Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 48,
+        "created_at": "2017-09-17T04:17:57Z",
+        "closed_at": "2017-09-17T14:40:43Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 47,
+        "created_at": "2017-09-17T03:54:29Z",
+        "closed_at": "2017-09-17T14:40:52Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 45,
+        "created_at": "2017-09-16T17:38:58Z",
+        "closed_at": "2017-09-18T12:38:51Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 44,
+        "created_at": "2017-09-16T17:26:57Z",
+        "closed_at": "2017-09-19T12:43:27Z",
+        "merged_at": "2017-09-19T12:43:27Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 43,
+        "created_at": "2017-09-16T16:02:53Z",
+        "closed_at": "2017-09-16T16:04:33Z",
+        "merged_at": "2017-09-16T16:04:33Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 41,
+        "created_at": "2017-09-16T15:08:01Z",
+        "closed_at": "2017-09-16T15:43:20Z",
+        "merged_at": "2017-09-16T15:43:20Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 40,
+        "created_at": "2017-09-15T18:26:48Z",
+        "closed_at": "2017-09-16T10:15:47Z",
+        "merged_at": "2017-09-16T10:15:47Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 38,
+        "created_at": "2017-09-15T06:54:28Z",
+        "closed_at": "2017-09-16T10:30:49Z",
+        "merged_at": "2017-09-16T10:30:49Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 37,
+        "created_at": "2017-09-14T21:34:42Z",
+        "closed_at": "2017-09-16T16:16:12Z",
+        "merged_at": "2017-09-16T16:16:12Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 36,
+        "created_at": "2017-09-13T19:47:09Z",
+        "closed_at": "2017-09-16T10:37:26Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 35,
+        "created_at": "2017-09-13T14:29:57Z",
+        "closed_at": "2017-09-14T10:25:04Z",
+        "merged_at": "2017-09-14T10:25:03Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 34,
+        "created_at": "2017-09-13T07:44:48Z",
+        "closed_at": "2017-09-16T11:33:38Z",
+        "merged_at": "2017-09-16T11:33:38Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 33,
+        "created_at": "2017-09-12T15:58:48Z",
+        "closed_at": "2017-09-16T11:31:38Z",
+        "merged_at": "2017-09-16T11:31:38Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 32,
+        "created_at": "2017-09-11T20:11:52Z",
+        "closed_at": "2017-09-16T11:34:17Z",
+        "merged_at": "2017-09-16T11:34:17Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 31,
+        "created_at": "2017-09-10T13:00:19Z",
+        "closed_at": "2017-09-10T17:28:48Z",
+        "merged_at": "2017-09-10T17:28:48Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 30,
+        "created_at": "2017-09-10T12:59:09Z",
+        "closed_at": "2017-09-16T11:40:03Z",
+        "merged_at": "2017-09-16T11:40:03Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 29,
+        "created_at": "2017-09-09T05:53:50Z",
+        "closed_at": "2017-09-09T06:53:33Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 28,
+        "created_at": "2017-09-08T16:27:41Z",
+        "closed_at": "2017-09-16T11:37:41Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 27,
+        "created_at": "2017-09-08T09:41:37Z",
+        "closed_at": "2017-09-16T11:34:54Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 23,
+        "created_at": "2017-09-07T01:08:31Z",
+        "closed_at": "2017-09-07T15:57:54Z",
+        "merged_at": "2017-09-07T15:57:54Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 17,
+        "created_at": "2017-09-06T13:04:39Z",
+        "closed_at": "2017-09-23T10:43:23Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 16,
+        "created_at": "2017-09-06T12:12:27Z",
+        "closed_at": "2017-09-06T17:00:11Z",
+        "merged_at": "2017-09-06T17:00:11Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 15,
+        "created_at": "2017-09-06T11:14:24Z",
+        "closed_at": "2017-09-06T17:01:37Z",
+        "merged_at": "2017-09-06T17:01:37Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 13,
+        "created_at": "2017-09-06T03:30:09Z",
+        "closed_at": "2017-09-06T17:00:46Z",
+        "merged_at": "2017-09-06T17:00:45Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 11,
+        "created_at": "2017-09-05T21:19:50Z",
+        "closed_at": "2017-09-06T09:57:58Z",
+        "merged_at": "2017-09-06T09:57:58Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 10,
+        "created_at": "2017-09-05T19:50:52Z",
+        "closed_at": "2017-09-06T16:59:47Z",
+        "merged_at": "2017-09-06T16:59:47Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 9,
+        "created_at": "2017-09-05T16:46:59Z",
+        "closed_at": "2017-09-16T11:38:24Z",
+        "merged_at": "2017-09-16T11:38:24Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 8,
+        "created_at": "2017-09-05T14:24:15Z",
+        "closed_at": "2017-09-23T10:43:11Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 7,
+        "created_at": "2017-09-05T14:12:13Z",
+        "closed_at": "2017-09-05T20:44:08Z",
+        "merged_at": "2017-09-05T20:44:08Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 6,
+        "created_at": "2017-09-05T14:02:57Z",
+        "closed_at": "2017-09-05T14:04:29Z",
+        "merged_at": "2017-09-05T14:04:29Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 5,
+        "created_at": "2017-09-05T14:00:18Z",
+        "closed_at": "2017-09-05T14:03:46Z",
+        "merged_at": "2017-09-05T14:03:46Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 4,
+        "created_at": "2017-09-05T12:20:44Z",
+        "closed_at": "2017-09-05T12:43:13Z",
+        "merged_at": null
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 3,
+        "created_at": "2017-09-05T10:54:59Z",
+        "closed_at": "2017-09-05T11:28:15Z",
+        "merged_at": "2017-09-05T11:28:15Z"
+    },
+    {
+        "state": "closed",
+        "owner": "mtdvio",
+        "name": "every-programmer-should-know",
+        "number": 2,
+        "created_at": "2017-09-04T19:05:08Z",
+        "closed_at": "2017-09-04T20:25:17Z",
+        "merged_at": "2017-09-04T20:25:17Z"
+    }
+]
