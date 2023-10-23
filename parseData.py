@@ -6,8 +6,7 @@ from datetime import datetime
 
 pasta_data = 'data'
 destino_dataset = 'dataset'
-access_token = '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'
-list_acesss_token = ['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','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','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']
+access_token = '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'
 
 def processar_arquivos_json(pasta):
 
@@ -73,10 +72,6 @@ def processar_arquivos_json(pasta):
                                         break
                                 else:
                                     print("Erro:" ,new_response.status_code)
-                                    new_header = {
-                                        'Authorization': f'Bearer {list_acesss_token[ac_int]}'
-                                    }
-                                    ac_int += 1
 
                 with open(f"dataset/{owner}_{name}_pull_requests.json", "w") as file:
                     json.dump(filtered_pull_requests, file, indent=4)
