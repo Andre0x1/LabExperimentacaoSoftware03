@@ -6,16 +6,16 @@ from datetime import datetime
 
 pasta_data = 'data'
 destino_dataset = 'dataset'
-access_token = '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'
-
-list_acesss_token = ['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','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','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','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']
-
-headers = {
-                                'Authorization': f'Bearer {access_token}'
-                            }
-
+access_token = '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'
+list_acesss_token = ['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','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','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']
 
 def processar_arquivos_json(pasta):
+
+    headers = {
+        'Authorization': f'Bearer {access_token}'
+    }
+
+    
     if not os.path.exists("dataset"):
         os.makedirs("dataset")
 
@@ -23,31 +23,33 @@ def processar_arquivos_json(pasta):
 
     for arquivo in arquivos:
         val = True
-        arquivo_resultado = "dataset/" + arquivo.replace("_filtered_", "_")
-        if os.path.exists(arquivo_resultado):
-            print("O arquivo", arquivo ,"já foi analisado. Pulando a busca dos dados.")
+        destino_arquivo = "dataset/" + arquivo.replace("_filtered_", "_")   
+        if os.path.exists(destino_arquivo):
+            print(f"O arquivo {destino_arquivo} já existe. Pulando a busca dos dados.")
             val = False
-        if arquivo.endswith('.json') and val:
-            caminho_arquivo = os.path.join(pasta, arquivo)                          
+        if arquivo.endswith('.json') and val:    
+            caminho_arquivo = os.path.join(pasta, arquivo)
             with open(caminho_arquivo, 'r') as file:
                 data = json.load(file)
                 filtered_pull_requests = []
                 print(arquivo)
                 count = 0
                 ac_int = 0
+
                 for info in data:
-                    owner = info['owner']
-                    name = info['name']
-                    if 'state' in info and info['state'] != 'open':
+                    if 'state' in info and info['state'] != 'open' and val:
                         date_diff = 0
                         creation_date = datetime.strptime(info['created_at'], "%Y-%m-%dT%H:%M:%SZ")
                         closed_date = datetime.strptime(info['closed_at'], "%Y-%m-%dT%H:%M:%SZ")
                         date_diff = closed_date - creation_date
                         hour_diff = date_diff.total_seconds() / 3600
                         if  hour_diff > 1:
-                            
-                            new_response = call_response(headers,info)
-                            
+                            owner = info['owner']
+                            name = info['name']
+                            number = info['number']
+
+                            new_url = f"https://api.github.com/repos/{owner}/{name}/pulls/{number}"
+                            new_response = requests.get(new_url, headers=headers)
                             while True:
                                 count += 1 
                                 if new_response.status_code == 200:
@@ -66,31 +68,19 @@ def processar_arquivos_json(pasta):
                                         filtered_pull_requests.append(filtered_pr)
                                         time.sleep(0.5)
                                         if count%100 == 0:
-                                            print(count,"PRs analisados")  
+                                            print(count,"PRs analisados")
+                                            
                                         break
-                                elif new_response.status_code != 200:
-                                    print("Erro:" ,new_response.status_code,"Trocando Acess token")
-                                    
-
                                 else:
                                     print("Erro:" ,new_response.status_code)
-                                    ac_int += 1
-                                    new_headers =  {
-                                         'Authorization': f'Bearer {list_acesss_token[ac_int]}'
+                                    new_header = {
+                                        'Authorization': f'Bearer {list_acesss_token[ac_int]}'
                                     }
-                                    new_response = call_response(new_headers,info)
+                                    ac_int += 1
 
                 with open(f"dataset/{owner}_{name}_pull_requests.json", "w") as file:
                     json.dump(filtered_pull_requests, file, indent=4)
-
-
-def call_response(headers,info):
-    owner = info['owner']
-    name = info['name']
-    number = info['number']
-    new_url = f"https://api.github.com/repos/{owner}/{name}/pulls/{number}"
-    new_response = requests.get(new_url, headers=headers)
-    return new_response
+                    
                            
 processar_arquivos_json(pasta_data)
 
