@@ -6,7 +6,7 @@ from datetime import datetime
 
 pasta_data = 'data'
 destino_dataset = 'dataset'
-access_token = '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'
+access_token = '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'
 
 def processar_arquivos_json(pasta):
 
@@ -20,7 +20,7 @@ def processar_arquivos_json(pasta):
 
     arquivos = os.listdir(pasta)
 
-    for arquivo in arquivos:
+    for arquivo in arquivos[9:]:
         val = True
         destino_arquivo = "dataset/" + arquivo.replace("_filtered_", "_")   
         if os.path.exists(destino_arquivo):
@@ -33,8 +33,6 @@ def processar_arquivos_json(pasta):
                 filtered_pull_requests = []
                 print(arquivo)
                 count = 0
-                ac_int = 0
-
                 for info in data:
                     if 'state' in info and info['state'] != 'open' and val:
                         date_diff = 0
@@ -46,7 +44,7 @@ def processar_arquivos_json(pasta):
                             owner = info['owner']
                             name = info['name']
                             number = info['number']
-
+                            time.sleep(0.5)
                             new_url = f"https://api.github.com/repos/{owner}/{name}/pulls/{number}"
                             new_response = requests.get(new_url, headers=headers)
                             while True:
@@ -65,10 +63,9 @@ def processar_arquivos_json(pasta):
                                             "comments": pr_data.get("comments", None)
                                         }
                                         filtered_pull_requests.append(filtered_pr)
-                                        time.sleep(0.5)
+                                        
                                         if count%100 == 0:
-                                            print(count,"PRs analisados")
-                                            
+                                            print(count,"PRs analisados")         
                                         break
                                 else:
                                     print("Erro:" ,new_response.status_code)
