@@ -6,7 +6,7 @@ from datetime import datetime
 
 pasta_data = 'data'
 destino_dataset = 'dataset'
-access_token = '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'
+access_token = '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'
 
 def processar_arquivos_json(pasta):
 
