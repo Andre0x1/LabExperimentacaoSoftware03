@@ -6,12 +6,38 @@ from datetime import datetime
 
 pasta_data = 'data'
 destino_dataset = 'dataset'
-access_token = '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'
-access_token2 = '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'
+
+
+def save_last_saved(last_saved):
+    with open("last_saved.txt", "w") as file:
+        file.write(str(last_saved))
+
+def load_last_saved():
+    if os.path.exists("last_saved.txt"):
+        with open("last_saved.txt", "r") as file:
+            return int(file.read())
+    return 0
+
+def save_last_data_saved(last_saved):
+    with open("last_data_saved.txt", "w") as file:
+        file.write(str(last_saved))
+
+def load_last_data_saved():
+    if os.path.exists("last_data_saved.txt"):
+        with open("last_data_saved.txt", "r") as file:
+            return int(file.read())
+    return 0
+
+
+
 def processar_arquivos_json(pasta):
 
     headers = {
         'Authorization': f'Bearer {access_token}'
+    }
+
+    headers_2 = {
+        'Authorization': f'Bearer {access_token2}'
     }
 
     
@@ -19,21 +45,23 @@ def processar_arquivos_json(pasta):
         os.makedirs("dataset")
 
     arquivos = os.listdir(pasta)
-
-    for arquivo in arquivos[9:]:
-        val = True
-        destino_arquivo = "dataset/" + arquivo.replace("_filtered_", "_")   
-        if os.path.exists(destino_arquivo):
-            print(f"O arquivo {destino_arquivo} já existe. Pulando a busca dos dados.")
-            val = False
+    last_saved = load_last_saved()
+    last_data_saved = load_last_data_saved()
+    for arquivo in arquivos[last_saved:]:
+        val = True  
         if arquivo.endswith('.json') and val:    
             caminho_arquivo = os.path.join(pasta, arquivo)
+            existing_data = []
             with open(caminho_arquivo, 'r') as file:
                 data = json.load(file)
-                filtered_pull_requests = []
+                owner = data[0]['owner']
+                name = data[0]['name']
+                if os.path.exists(f"dataset/{owner}_{name}_pull_requests.json"):
+                    with open(f"dataset/{owner}_{name}_pull_requests.json", "r") as file:
+                         existing_data = json.load(file)
                 print(arquivo)
                 count = 0
-                for info in data:
+                for info in data[last_data_saved:]:
                     if 'state' in info and info['state'] != 'open' and val:
                         date_diff = 0
                         creation_date = datetime.strptime(info['created_at'], "%Y-%m-%dT%H:%M:%SZ")
@@ -44,7 +72,6 @@ def processar_arquivos_json(pasta):
                             owner = info['owner']
                             name = info['name']
                             number = info['number']
-                            time.sleep(0.5)
                             new_url = f"https://api.github.com/repos/{owner}/{name}/pulls/{number}"
                             new_response = requests.get(new_url, headers=headers)
                             while True:
@@ -62,16 +89,24 @@ def processar_arquivos_json(pasta):
                                             "body": pr_data.get("body", None),
                                             "comments": pr_data.get("comments", None)
                                         }
-                                        filtered_pull_requests.append(filtered_pr)
-                                        
-                                        if count%100 == 0:
-                                            print(count,"PRs analisados")         
+                                        existing_data.append(filtered_pr)
+                                        time.sleep(0.7)
+                                        if count%10 == 0:
+                                            print(count,"PRs analisados")
+                                            with open(f"dataset/{owner}_{name}_pull_requests.json", "w") as file:
+                                                json.dump(existing_data, file, indent=4)        
                                         break
                                 else:
                                     print("Erro:" ,new_response.status_code)
-
-                with open(f"dataset/{owner}_{name}_pull_requests.json", "w") as file:
-                    json.dump(filtered_pull_requests, file, indent=4)
+                                    new_response = requests.get(new_url, headers=headers_2)
+                    last_data_saved += 1
+                    save_last_data_saved(last_data_saved)
+                                    
+        last_saved += 1
+        save_last_saved(last_saved)
+        last_data_saved = 0
+        save_last_data_saved(last_data_saved)
+                
                     
                            
 processar_arquivos_json(pasta_data)
